@@ -2,7 +2,7 @@
 
 😎- Atualmente estou trabalhando HTML, CSS, JavaScript e Java.
 
-🎓- 1/8 Computer Science - FACAPE
+🎓- 3/8 Computer Science - FACAPE
 
 ##
   
