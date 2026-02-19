@@ -1,6 +1,6 @@
 ## Olá sou Filipe Tavares desenvolvedor Fullstack e criador de conteúdo!
 
-😎- Atualmente estou trabalhando HTML, CSS, JavaScript e Java.
+😎- Atualmente estou trabalhando HTML, CSS e Java.
 
 🎓- 3/8 Computer Science - FACAPE
 
